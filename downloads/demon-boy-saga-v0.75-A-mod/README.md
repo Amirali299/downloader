@@ -1,0 +1,52 @@
+# demon-boy-saga-v0.75-A-mod
+
+---
+
+## Download Information
+
+| Property | Value |
+|----------|-------|
+| **Original File** | `demon-boy-saga-v0.75-A-mod.apk` |
+| **Total Size** | **20 parts** - **879.75 MB** |
+| **Status** | **Complete (100%)** |
+| **Password Protected** | **NO** |
+
+---
+
+## Download Links
+
+| # | File | Link |
+|---|------|------|
+| 1 | `demon-boy-saga-v0.75-A-mod.7z.001` | [Download](https://github.com/Amirali299/downloader/raw/main/downloads/demon-boy-saga-v0.75-A-mod/demon-boy-saga-v0.75-A-mod.7z.001) |
+| 2 | `demon-boy-saga-v0.75-A-mod.7z.002` | [Download](https://github.com/Amirali299/downloader/raw/main/downloads/demon-boy-saga-v0.75-A-mod/demon-boy-saga-v0.75-A-mod.7z.002) |
+| 3 | `demon-boy-saga-v0.75-A-mod.7z.003` | [Download](https://github.com/Amirali299/downloader/raw/main/downloads/demon-boy-saga-v0.75-A-mod/demon-boy-saga-v0.75-A-mod.7z.003) |
+| 4 | `demon-boy-saga-v0.75-A-mod.7z.004` | [Download](https://github.com/Amirali299/downloader/raw/main/downloads/demon-boy-saga-v0.75-A-mod/demon-boy-saga-v0.75-A-mod.7z.004) |
+| 5 | `demon-boy-saga-v0.75-A-mod.7z.005` | [Download](https://github.com/Amirali299/downloader/raw/main/downloads/demon-boy-saga-v0.75-A-mod/demon-boy-saga-v0.75-A-mod.7z.005) |
+| 6 | `demon-boy-saga-v0.75-A-mod.7z.006` | [Download](https://github.com/Amirali299/downloader/raw/main/downloads/demon-boy-saga-v0.75-A-mod/demon-boy-saga-v0.75-A-mod.7z.006) |
+| 7 | `demon-boy-saga-v0.75-A-mod.7z.007` | [Download](https://github.com/Amirali299/downloader/raw/main/downloads/demon-boy-saga-v0.75-A-mod/demon-boy-saga-v0.75-A-mod.7z.007) |
+| 8 | `demon-boy-saga-v0.75-A-mod.7z.008` | [Download](https://github.com/Amirali299/downloader/raw/main/downloads/demon-boy-saga-v0.75-A-mod/demon-boy-saga-v0.75-A-mod.7z.008) |
+| 9 | `demon-boy-saga-v0.75-A-mod.7z.009` | [Download](https://github.com/Amirali299/downloader/raw/main/downloads/demon-boy-saga-v0.75-A-mod/demon-boy-saga-v0.75-A-mod.7z.009) |
+| 10 | `demon-boy-saga-v0.75-A-mod.7z.010` | [Download](https://github.com/Amirali299/downloader/raw/main/downloads/demon-boy-saga-v0.75-A-mod/demon-boy-saga-v0.75-A-mod.7z.010) |
+| 11 | `demon-boy-saga-v0.75-A-mod.7z.011` | [Download](https://github.com/Amirali299/downloader/raw/main/downloads/demon-boy-saga-v0.75-A-mod/demon-boy-saga-v0.75-A-mod.7z.011) |
+| 12 | `demon-boy-saga-v0.75-A-mod.7z.012` | [Download](https://github.com/Amirali299/downloader/raw/main/downloads/demon-boy-saga-v0.75-A-mod/demon-boy-saga-v0.75-A-mod.7z.012) |
+| 13 | `demon-boy-saga-v0.75-A-mod.7z.013` | [Download](https://github.com/Amirali299/downloader/raw/main/downloads/demon-boy-saga-v0.75-A-mod/demon-boy-saga-v0.75-A-mod.7z.013) |
+| 14 | `demon-boy-saga-v0.75-A-mod.7z.014` | [Download](https://github.com/Amirali299/downloader/raw/main/downloads/demon-boy-saga-v0.75-A-mod/demon-boy-saga-v0.75-A-mod.7z.014) |
+| 15 | `demon-boy-saga-v0.75-A-mod.7z.015` | [Download](https://github.com/Amirali299/downloader/raw/main/downloads/demon-boy-saga-v0.75-A-mod/demon-boy-saga-v0.75-A-mod.7z.015) |
+| 16 | `demon-boy-saga-v0.75-A-mod.7z.016` | [Download](https://github.com/Amirali299/downloader/raw/main/downloads/demon-boy-saga-v0.75-A-mod/demon-boy-saga-v0.75-A-mod.7z.016) |
+| 17 | `demon-boy-saga-v0.75-A-mod.7z.017` | [Download](https://github.com/Amirali299/downloader/raw/main/downloads/demon-boy-saga-v0.75-A-mod/demon-boy-saga-v0.75-A-mod.7z.017) |
+| 18 | `demon-boy-saga-v0.75-A-mod.7z.018` | [Download](https://github.com/Amirali299/downloader/raw/main/downloads/demon-boy-saga-v0.75-A-mod/demon-boy-saga-v0.75-A-mod.7z.018) |
+| 19 | `demon-boy-saga-v0.75-A-mod.7z.019` | [Download](https://github.com/Amirali299/downloader/raw/main/downloads/demon-boy-saga-v0.75-A-mod/demon-boy-saga-v0.75-A-mod.7z.019) |
+| 20 | `demon-boy-saga-v0.75-A-mod.7z.020` | [Download](https://github.com/Amirali299/downloader/raw/main/downloads/demon-boy-saga-v0.75-A-mod/demon-boy-saga-v0.75-A-mod.7z.020) |
+
+---
+
+## How to Extract
+
+1. **Download** all parts (e.g. `.7z.001`, `.7z.002`...)
+2. **Install** [7-Zip](https://www.7-zip.org/) (Windows/Linux) or [Keka](https://www.keka.io/) (Mac)
+3. **Right-click** the `.7z.001` file → Extract Here
+4. All parts combine automatically into the original file
+
+---
+
+*This tool created by [avasam.ir](https://avasam.ir)*
